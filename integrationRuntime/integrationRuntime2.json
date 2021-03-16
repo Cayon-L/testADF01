@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime2",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/d2f0c0e9-52df-40d3-88e2-d74924e0572d/resourcegroups/ljcresouce/providers/Microsoft.DataFactory/factories/testadfljc/integrationruntimes/integrationRuntime1",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
